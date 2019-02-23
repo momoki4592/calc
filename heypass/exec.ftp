@@ -1,0 +1,26 @@
+open uturoiyukuhaame.web.fc2.com 
+user
+uturoiyukuhaame
+nGo&&0Bku$
+prompt
+cd cb/data 
+lcd data 
+put abd.json 
+put am.json 
+put bs.json 
+put cartridge.json
+put cbd.json 
+put defaultwb.json
+put fcac.json 
+put fixed.json 
+put hd.json 
+put hdac.json 
+put lbd.json 
+put lg.json 
+put mainwp.json 
+put material.json 
+put sbd.json 
+put subwp.json 
+put tuneup.json 
+put wb.json 
+bye 

@@ -1,0 +1,14 @@
+﻿RMouse Down
+279
+RMouse Up
+739
+RMouse Down
+994
+A
+1934
+RMouse Up
+190
+RMouse Down
+1289
+RMouse Up
+712
